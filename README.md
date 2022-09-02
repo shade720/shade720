@@ -11,5 +11,5 @@
 ### Follow Me
 
 [![Vkontakte](https://img.shields.io/badge/-Vk-2073ba?style=flat&logo=Vk)](https://vk.com/shade720)
-[![Telegram](https://img.shields.io/badge/-Telegram-2073ba?style=flat&logo=Telegram)](https://t.m/evg_mihaylyukov)
+[![Telegram](https://img.shields.io/badge/-Telegram-2073ba?style=flat&logo=Telegram)](https://t.me/evg_mihaylyukov)
 
