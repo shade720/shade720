@@ -1,6 +1,6 @@
 ![Header](https://github.com/shade720/shade720/blob/main/I3gBDoTh51g.jpg)
 
-## I'm a student of the Dostoevsky State University, and i'm beginner sofware developer. 
+## Student // Software developer
 
 
 ### Frameworks and platforms
